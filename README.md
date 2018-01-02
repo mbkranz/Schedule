@@ -16,6 +16,7 @@
 <th width="300">Readings/Videos
 </th>
 <th width="300">Assignments
+</th>
 <p><br />
 </p><p><br />
 </p>
