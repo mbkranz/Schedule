@@ -39,5 +39,5 @@ https://markdown-here.com/livedemo.html
 <td> 01/17/18  </td>
 <td> Introduction to the class <br /> Why use MRI and fMRI in Cognitive Neuroscience? <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="link">BasicNeuroIntro</a> <br /> <a rel="nofollow" class="external text" href="link">Hastings_Aguirre_2014</a> </td>
-<td> Start working on installing Virtual Machine and NeuroDebian <br /> <a rel="nofollow" class="external text" href="link">Install Virtual Machine</a>
+<td> Start working on installing Virtual Machine and NeuroDebian <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/00-Lab/InstallVirtualMachine.ipynb">Install Virtual Machine</a>
 </td></tr>
