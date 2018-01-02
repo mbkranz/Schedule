@@ -1,5 +1,13 @@
 # Tentative schedule
 
+<!-- helpful links
+view-source:https://mri.radiology.uiowa.edu/mediawiki/index.php/Fall_2014
+https://docs.google.com/document/d/1wQcpTz8ChMlG_j47GbENVY6nOPVT-o_xCg2SxFAIRgQ/edit#
+https://docs.google.com/spreadsheets/d/18uCMIG6CYbqwBPfb0rQ6uw3qJ9ZDCgG6l0o_vz__SSI/edit#gid=0
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
+https://markdown-here.com/livedemo.html
+-->
 
 <p>
 <h2 align="center"> Structural and Functional MRI Methods and Application (PSY:6280:0001) </h2>
