@@ -1,9 +1,8 @@
-# Schedule
+# Spring 2018
 
 
 <p>
 <h2 align="center"> Structural and Functional MRI Methods and Application (PSY:6280:0001) </h2>
-<h3 align="center"> Spring 2018  </h3>
 </p>
 
 <table class="wikitable" border="1">
