@@ -1,15 +1,17 @@
 # Schedule
 
-<p align="center">
-## Structural and Functional MRI Methods and Application (PSY:6280:0001) Spring 2018  
-</p>
+
+<center> <h2> Structural and Functional MRI Methods and Application (PSY:6280:0001) Spring 2018  </h1> </center>
+
 
 ```
+<p>
 **Course description**: The goal of this course will be to give students an in-depth background and hands-on experience with the methods of MRI and fMRI with an emphasis on applications in cognitive and health psychology. Topics covered include an understanding of image acquisition, basic physics of MRI and fMRI, introduction to the neurophysiology of the BOLD/fMRI signal, creating tasks that optimize the strengths of fMRI, preprocessing and analysis of structural and functional images, and measuring structural and functional connectivity. Through applied problem sets you’ll also gain familiarity with common programming tools/environments used in fMRI processing (e.g., bash, python; FSL, AFNI), and get hands-on practice with basic image manipulation, data preprocessing, and analyses. The course will culminate with group projects that include data collection in the scanner and analysis of this data. Students will give a presentation and write a final paper based on their group project.
+</p>
 ```
 
 <p><br />
-<b>Class Schedule</b>
+<b>Tentative Schedule</b>
 </p>
 <table class="wikitable" border="1">
 <tr>
