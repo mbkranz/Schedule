@@ -24,7 +24,7 @@
 <td> 01/17/18  </td>
 <td> Introduction to the class: why use MRI and fMRI in cognitive neuroscience? <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
-<td> Start working on installing Virtual Machine and NeuroDebian <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/00-Lab/InstallVirtualMachine.ipynb">Install Virtual Machine</a>
+<td> Start working on installing your virtual machine <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/00-Lab/InstallVirtualMachine.ipynb">Lab 00</a>
 </td></tr>
 
 
@@ -39,7 +39,7 @@
 <td>   </td>
 <td> 01/24/18  </td>
 <td> fMRI Physics + BOLD contrast <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Kwong et al., 1992</a> <br /> <a rel="nofollow" class="external text" href="link">Ogowa et al., 1992</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
 <td>  <br />
 </td></tr>
 
@@ -73,9 +73,9 @@
 
 <td>   </td>
 <td> 02/07/18  </td>
-<td> Image processing software <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> Image processing basics <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
-<td> Software Intro <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/02-Lab/ImageProcessingBasics.ipynb">Lab 02</a>
+<td> Image processing software <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/02-Lab/ImageProcessingBasics.ipynb">Lab 02</a>
 </td></tr>
 
 
@@ -252,7 +252,7 @@
 
 <td> 15  </td>
 <td> 04/30/18  </td>
-<td> Reporting your methods and results; final project working session  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> Reporting your methods and results & final project working session  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
 <td>  <br />
 </td></tr>
