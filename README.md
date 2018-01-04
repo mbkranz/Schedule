@@ -1,4 +1,4 @@
-<p> **When and where we meet**: Monday and Wednesday 2:30-3:45pm , Rm 109 Stuit Hall  </p>
+**When and where we meet**: Monday and Wednesday 2:30-3:45pm , Rm 109 Stuit Hall  
 
 <table class="wikitable" border="0">
 <tr>
