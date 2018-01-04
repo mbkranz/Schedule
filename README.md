@@ -1,18 +1,3 @@
-# Tentative schedule
-
-<!-- helpful links
-view-source:https://mri.radiology.uiowa.edu/mediawiki/index.php/Fall_2014
-https://docs.google.com/document/d/1wQcpTz8ChMlG_j47GbENVY6nOPVT-o_xCg2SxFAIRgQ/edit#
-https://docs.google.com/spreadsheets/d/18uCMIG6CYbqwBPfb0rQ6uw3qJ9ZDCgG6l0o_vz__SSI/edit#gid=0
-
-https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
-https://markdown-here.com/livedemo.html
--->
-
-<p>
-<h2 align="center"> Structural and Functional MRI Methods and Application (PSY:6280:0001) </h2>
-</p>
-
 <table class="wikitable" border="1">
 <tr>
 <th width="20">Week
@@ -29,15 +14,265 @@ https://markdown-here.com/livedemo.html
 </p><p><br />
 </p>
 </th></tr>
+
 <tr>
 <td colspan="6"> <b>Unit 1: Introduction to MRI/fMRI methodology</b>
 </td></tr>
 
 
 <tr>
+
+
 <td> 1 </td>
 <td> 01/17/18  </td>
-<td> Introduction to the class <br /> Why use MRI and fMRI in Cognitive Neuroscience? <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">BasicNeuroIntro</a> <br /> <a rel="nofollow" class="external text" href="link">Hastings_Aguirre_2014</a> </td>
+<td> Introduction to the class: why use MRI and fMRI in cognitive neuroscience? <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
 <td> Start working on installing Virtual Machine and NeuroDebian <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/00-Lab/InstallVirtualMachine.ipynb">Install Virtual Machine</a>
+</td></tr>
+
+
+
+<td> 2 </td>
+<td> 01/22/18  </td>
+<td> MRI Physics <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td>  <br />
+</td></tr>
+
+<td>   </td>
+<td> 01/24/18  </td>
+<td> fMRI Physics + BOLD contrast <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Kwong et al., 1992</a> <br /> <a rel="nofollow" class="external text" href="link">Ogowa et al., 1992</a> </td>
+<td>  <br />
+</td></tr>
+
+
+<tr>
+<td colspan="6"> <b>Unit 2: Preprocessing </b>
+</td></tr>
+
+<td> 3  </td>
+<td> 01/29/18  </td>
+<td> Technical landscape of MRI processing <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td>  <br />
+</td></tr>
+
+<td>   </td>
+<td> 01/31/18  </td>
+<td> What are images <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> Software Intro <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/01-Lab/SoftwareIntro.ipynb">Lab 01</a>
+</td></tr>
+
+
+
+<td> 4  </td>
+<td> 02/05/18  </td>
+<td> Image processing basics <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td>  <br />
+</td></tr>
+
+<td>   </td>
+<td> 02/07/18  </td>
+<td> Image processing software <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> Software Intro <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/02-Lab/ImageProcessingBasics.ipynb">Lab 02</a>
+</td></tr>
+
+
+
+<td> 5  </td>
+<td> 02/12/18  </td>
+<td> Structural image quality <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td>  <br />
+</td></tr>
+
+<td>  </td>
+<td> 02/14/18  </td>
+<td> Computing and summarizing structural image quality <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> Quality control for structural images <br /> <a rel="nofollow" class="external text" href="Link">Lab 03</a>
+</td></tr>
+
+
+
+<td> 6  </td>
+<td> 02/19/18  </td>
+<td> fMRI images: basics, quality, distortion <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td>  <br />
+</td></tr>
+
+<td>  </td>
+<td> 02/21/18  </td>
+<td> fMRI preprocessing: sources of noise, motion <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> Quality control for functional images <br /> <a rel="nofollow" class="external text" href="Link">Lab 04</a>
+</td></tr>
+
+
+
+<td> 7  </td>
+<td> 02/26/18  </td>
+<td> fMRI preprocessing: smoothing, temporal filtering <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td>  <br />
+</td></tr>
+
+<td>  </td>
+<td> 02/28/18  </td>
+<td> fMRI preprocessing: filtering and denoising <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> Preprocessing for functional images <br /> <a rel="nofollow" class="external text" href="Link">Lab 05</a>
+</td></tr>
+
+
+
+<td> 8  </td>
+<td> 03/05/18  </td>
+<td> Putting it all together for different designs <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td>  <br />
+</td></tr>
+
+<td>  </td>
+<td> 03/07/18  </td>
+<td> Putting it all together with batch scripting and documenting your steps <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> Batch processing and workflow tips <br /> <a rel="nofollow" class="external text" href="Link">Lab 06</a>
+</td></tr>
+
+
+<tr>
+<td colspan="6"> <b>Spring Break</b>
+</td></tr>
+
+<tr>
+<td colspan="6"> <b>Unit 3: Statistical analyses </b>
+</td></tr>
+
+<td> 9  </td>
+<td> 03/19/18  </td>
+<td> Statistical analysis: single subject task analysis <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td>  <br />
+</td></tr>
+
+<td>  </td>
+<td> 03/21/18  </td>
+<td> Building a single subject task model  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> Building a single subject task model <br /> <a rel="nofollow" class="external text" href="Link">Lab 07</a>
+</td></tr>
+
+
+
+<td> 10  </td>
+<td> 03/26/18  </td>
+<td> Experimental design considerations for fMRI & project ideas discussion <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td>  <br />
+</td></tr>
+
+<td>  </td>
+<td> 03/28/18  </td>
+<td> Putting it all together with batch scripting and documenting your steps <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> Building a task to run in the scanner <br /> <a rel="nofollow" class="external text" href="Link">Lab 08</a>
+</td></tr>
+
+
+
+
+<td> 11  </td>
+<td> 04/02/18  </td>
+<td> Group analyses  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td>  <br />
+</td></tr>
+
+<td>  </td>
+<td> 04/04/18  </td>
+<td> Building a between-subjects statistical model <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> Building a between-subjects statistical model <br /> <a rel="nofollow" class="external text" href="Link">Lab 09</a>
+</td></tr>
+
+
+<td> 12  </td>
+<td> 04/09/18  </td>
+<td> Statistical inference on images  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td>  <br />
+</td></tr>
+
+<td>  </td>
+<td> 04/11/18  </td>
+<td> Task analysis: putting it all together  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> Task analysis: putting it all together  <br /> <a rel="nofollow" class="external text" href="Link">Lab 10</a>
+</td></tr>
+
+
+
+<td> 13  </td>
+<td> 04/16/18  </td>
+<td> Introduction to Nipype and workflows, by James Kent  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td>  <br />
+</td></tr>
+
+<td>  </td>
+<td> 04/18/18  </td>
+<td> Building a simple workflow in nipype <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> Building a simple workflow in nipype  <br /> <a rel="nofollow" class="external text" href="Link">Lab 11</a>
+</td></tr>
+
+
+
+
+<td> 14  </td>
+<td> 04/23/18  </td>
+<td> Resting state functional connectivity  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td>  <br />
+</td></tr>
+
+<td>  </td>
+<td> 04/25/18  </td>
+<td> Resting state functional connectivity  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> Resting state functional connectivity   <br /> <a rel="nofollow" class="external text" href="Link">Lab 12</a>
+</td></tr>
+
+<tr>
+<td colspan="6"> <b>Unit 4: Reporting your results </b>
+</td></tr>
+
+<td> 15  </td>
+<td> 04/30/18  </td>
+<td> Reporting your methods and results; final project working session  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td>  <br />
+</td></tr>
+
+<td>  </td>
+<td> 05/02/18  </td>
+<td> Final project presentations  <br /> </td>
+<td>  </td>
+<td>    <br />
+</td></tr>
+
+
+
+
+<td> 16  </td>
+<td> 05/07/18  </td>
+<td> Final project presentations  <br /> </td>
+<td> </td>
+<td>  <br />
 </td></tr>
