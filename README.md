@@ -1,4 +1,6 @@
-<table class="wikitable" border="1">
+<p> **When and where we meet**: Monday and Wednesday 2:30-3:45pm , Rm 109 Stuit Hall  </p>
+
+<table class="wikitable" border="0">
 <tr>
 <th width="20">Week
 </th>
@@ -10,17 +12,12 @@
 </th>
 <th width="300">Labs
 </th>
-<p><br />
-</p><p><br />
-</p>
-</th></tr>
+</th>
+</tr>
 
 <tr>
 <td colspan="6"> <b>Unit 1: Introduction to MRI/fMRI methodology</b>
 </td></tr>
-
-
-<tr>
 
 
 <td> 1 </td>
