@@ -23,7 +23,7 @@
 <td> 1 </td>
 <td> 01/17/18  </td>
 <td> Introduction to the class: why use MRI and fMRI in cognitive neuroscience? <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Resources/blob/master/Aguirre_HastingsReview_2014.pdf">Aguirre 2014</a> <br /> </td>
 <td> Start working on installing your virtual machine <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/00-Lab/InstallVirtualMachine.ipynb">Lab 00</a>
 </td></tr>
 
@@ -51,14 +51,13 @@
 <td> 3  </td>
 <td> 01/29/18  </td>
 <td> Technical landscape of MRI processing <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 1</a> <br />  </td>
 <td>  <br />
 </td></tr>
 
 <td>   </td>
 <td> 01/31/18  </td>
-<td> What are images <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> What are images <br /> /td>
 <td> Software Intro <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/01-Lab/SoftwareIntro.ipynb">Lab 01</a>
 </td></tr>
 
