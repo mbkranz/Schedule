@@ -32,14 +32,14 @@
 <td> 2 </td>
 <td> 01/22/18  </td>
 <td> MRI Physics <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> <a rel="nofollow" class="external text" href="http://nollresearch.engin.umich.edu/wp-content/uploads/sites/177/2014/10/MRI_fMRI_primer.pdf">Noll Primer on MRI/fMRI</a> <br /> <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=Ok9ILIYzmaY">Video</a> </td>
 <td>  <br />
 </td></tr>
 
 <td>   </td>
 <td> 01/24/18  </td>
-<td> fMRI Physics + BOLD contrast <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> fMRI BOLD contrast <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Resources/blob/master/Logothetis-2001-Neurophysiological%20investigati.pdf">Logothetis 2001</a> <br />  </td>
 <td>  <br />
 </td></tr>
 
