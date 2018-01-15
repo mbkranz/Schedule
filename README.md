@@ -24,9 +24,8 @@
 <td> 01/17/18  </td>
 <td> Introduction to the class: why use MRI and fMRI in cognitive neuroscience? <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://scholar-google-com.proxy.lib.uiowa.edu/&httpsredir=1&article=1145&context=neuroethics_pubs">Aguirre 2014</a> <br /> </td>
-<td> Start working on installing your virtual machine <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/00-Lab/InstallVirtualMachine.ipynb">Lab 00</a>
+<td> Start working on installing your virtual machine <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/00-Lab/Introduction.ipynb">Lab 00</a>
 </td></tr>
-
 
 
 <td> 2 </td>
@@ -74,7 +73,7 @@
 <td> 02/07/18  </td>
 <td> Image processing basics <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
-<td> Image processing software <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/02-Lab/ImageProcessingBasics.ipynb">Lab 02</a>
+<td> Image processing software <br /> <a rel="nofollow" class="external text" href="WIP">Lab 02</a>
 </td></tr>
 
 
