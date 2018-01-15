@@ -64,16 +64,16 @@
 
 <td> 4  </td>
 <td> 02/05/18  </td>
-<td> Image processing basics <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> Preprocesing overview <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 3</a> <br /> </td>
 <td>  <br />
 </td></tr>
 
 <td>   </td>
 <td> 02/07/18  </td>
-<td> Image processing basics <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
-<td> Image processing software <br /> <a rel="nofollow" class="external text" href="WIP">Lab 02</a>
+<td> Image processing basics <br />     </td>
+<td>   </td>
+<td> Image processing basics <br /> <a rel="nofollow" class="external text" href="WIP">Lab 02</a>
 </td></tr>
 
 
@@ -81,14 +81,14 @@
 <td> 5  </td>
 <td> 02/12/18  </td>
 <td> Structural image quality <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 4</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
 <td>  <br />
 </td></tr>
 
 <td>  </td>
 <td> 02/14/18  </td>
-<td> Computing and summarizing structural image quality <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> Computing and summarizing structural image quality <br />  </td>
+<td> <a rel="nofollow" class="external text" href="http://mriqc.readthedocs.io/en/latest/iqms/t1w.html">MRIQC doc</a> <br /> <a rel="nofollow" class="external text" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184661">Esteban et al., 2017/a> </td>
 <td> Quality control for structural images <br /> <a rel="nofollow" class="external text" href="Link">Lab 03</a>
 </td></tr>
 
