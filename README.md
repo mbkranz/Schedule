@@ -57,7 +57,7 @@
 
 <td>   </td>
 <td> 01/31/18  </td>
-<td> What are images <br /> /td>
+<td> What are images  </td>
 <td> Software Intro <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/01-Lab/SoftwareIntro.ipynb">Lab 01</a>
 </td></tr>
 
