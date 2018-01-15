@@ -23,7 +23,7 @@
 <td> 1 </td>
 <td> 01/17/18  </td>
 <td> Introduction to the class: why use MRI and fMRI in cognitive neuroscience? <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Resources/blob/master/Aguirre_HastingsReview_2014.pdf">Aguirre 2014</a> <br /> </td>
+<td> <a rel="nofollow" class="external text" href="https://repository.upenn.edu/cgi/viewcontent.cgi?referer=https://scholar-google-com.proxy.lib.uiowa.edu/&httpsredir=1&article=1145&context=neuroethics_pubs">Aguirre 2014</a> <br /> </td>
 <td> Start working on installing your virtual machine <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/00-Lab/InstallVirtualMachine.ipynb">Lab 00</a>
 </td></tr>
 
@@ -39,7 +39,7 @@
 <td>   </td>
 <td> 01/24/18  </td>
 <td> fMRI BOLD contrast <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Resources/blob/master/Logothetis-2001-Neurophysiological%20investigati.pdf">Logothetis 2001</a> <br />  </td>
+<td> <a rel="nofollow" class="external text" href="https://www-nature-com.proxy.lib.uiowa.edu/articles/35084005">Logothetis 2001</a> <br />  </td>
 <td>  <br />
 </td></tr>
 
