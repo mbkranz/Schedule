@@ -73,7 +73,7 @@
 <td> 02/07/18  </td>
 <td> Image processing basics <br />     </td>
 <td>   </td>
-<td> Image processing basics <br /> <a rel="nofollow" class="external text" href="WIP">Lab 02</a>
+<td> Image processing basics <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/02-Lab/ImageProcessingBasics.ipynb">Lab 02</a>
 </td></tr>
 
 
