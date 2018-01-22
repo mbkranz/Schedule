@@ -30,7 +30,7 @@
 
 <td> 2 </td>
 <td> 01/22/18  </td>
-<td> MRI Physics <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> MRI Physics <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Resources/blob/master/012218_NMR_Physics_Introduction.pdf">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="http://nollresearch.engin.umich.edu/wp-content/uploads/sites/177/2014/10/MRI_fMRI_primer.pdf">Noll Primer on MRI/fMRI</a> <br /> <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=Ok9ILIYzmaY">Video</a> </td>
 <td>  <br />
 </td></tr>
