@@ -37,7 +37,7 @@
 
 <td>   </td>
 <td> 01/24/18  </td>
-<td> fMRI BOLD contrast <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> fMRI BOLD contrast <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Resources/blob/master/012418_fMRIBOLD_imaging.pdf">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="https://www-nature-com.proxy.lib.uiowa.edu/articles/35084005">Logothetis 2001</a> <br />  </td>
 <td>  <br />
 </td></tr>
