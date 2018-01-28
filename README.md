@@ -51,7 +51,7 @@
 <td> 01/29/18  </td>
 <td> Technical landscape of MRI processing <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 1</a> <br />  </td>
-<td>  <br />
+<td> <a rel="nofollow" class="external text" href="http://www.humanbrainmapping.org/files/2016/COBIDASreport.pdf"> COBIDAS report: best practices </a> <br />
 </td></tr>
 
 <td>   </td>
