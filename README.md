@@ -64,10 +64,11 @@
 
 <td> 4  </td>
 <td> 02/05/18  </td>
-<td> Preprocesing overview <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> Preprocesing overview <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Resources/blob/master/020518_PreprocessingOverview.pdf">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 3</a> <br /> </td>
 <td>  <br />
 </td></tr>
+
 
 <td>   </td>
 <td> 02/07/18  </td>
