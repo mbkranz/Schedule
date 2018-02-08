@@ -113,15 +113,15 @@
 
 <td> 7  </td>
 <td> 02/26/18  </td>
-<td> fMRI preprocessing: smoothing, temporal filtering <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> fMRI preprocessing: ICA-denoising & temporal filtering <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://www-ncbi-nlm-nih-gov.proxy.lib.uiowa.edu/pubmed/25770991">Pruim et al, 2015</a> <br /> </td>
 <td>  <br />
 </td></tr>
 
 <td>  </td>
 <td> 02/28/18  </td>
-<td> fMRI preprocessing: filtering and denoising <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> fMRI preprocessing: smoothing, ICA-denoising, temporal filtering <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://github.com/maartenmennes/ICA-AROMA/blob/master/Manual.pdf">ICA-AROMA manual</a> <br /> </td>
 <td> Preprocessing for functional images <br /> <a rel="nofollow" class="external text" href="Link">Lab 05</a>
 </td></tr>
 
