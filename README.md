@@ -97,15 +97,15 @@
 
 <td> 6  </td>
 <td> 02/19/18  </td>
-<td> fMRI images: basics, quality, distortion <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> fMRI images: motion correction & slice timing <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook, p41-49</a> <br /></td>
 <td>  <br />
 </td></tr>
 
 <td>  </td>
 <td> 02/21/18  </td>
-<td> fMRI preprocessing: sources of noise, motion <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> fMRI preprocessing: quality metrics, motion correction, slice timing <br />  </td>
+<td> <a rel="nofollow" class="external text" href="http://mriqc.readthedocs.io/en/latest/iqms/bold.html">mriqc</a> <br /> </td>
 <td> Quality control for functional images <br /> <a rel="nofollow" class="external text" href="Link">Lab 04</a>
 </td></tr>
 
