@@ -82,14 +82,13 @@
 <td> 5  </td>
 <td> 02/12/18  </td>
 <td> Structural image quality <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="http://mriqc.readthedocs.io/en/latest/iqms/t1w.html">mriqc</a> <br /> </td>
-<td> <a rel="nofollow" class="external text" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184661"> Esteban et al. 2017 </a>  <br />
-</td></tr>
+<td> <a rel="nofollow" class="external text" href="http://mriqc.readthedocs.io/en/latest/iqms/t1w.html">mriqc</a> <br /> <a rel="nofollow" class="external text" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184661"> Esteban et al. 2017 </a>  <br />
+<td> </td></tr>
 
 <td>  </td>
 <td> 02/14/18  </td>
 <td> Practice with spatial registraiton <br />  </td>
-<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957"> Handbook Ch 4 </a> <br />  <a rel="nofollow" class="external text" href="Link">Lab 03</a>
+<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957"> Handbook Ch 4 </a> <br /></td> <td> <a rel="nofollow" class="external text" href="Link">Lab 03</a>
 </td></tr>
 
 
