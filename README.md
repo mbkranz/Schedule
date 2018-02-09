@@ -159,7 +159,7 @@
 <td> 03/21/18  </td>
 <td> Building a single subject task model  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
-<td> Building a single subject task model <br /> <a rel="nofollow" class="external text" href="Link">Lab 07</a>
+<td>  <a rel="nofollow" class="external text" href="Link">Lab 07</a>
 </td></tr>
 
 
@@ -173,9 +173,9 @@
 
 <td>  </td>
 <td> 03/28/18  </td>
-<td> Putting it all together with batch scripting and documenting your steps <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> Building a task to run in the scanner  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
-<td> Building a task to run in the scanner <br /> <a rel="nofollow" class="external text" href="Link">Lab 08</a>
+<td> <a rel="nofollow" class="external text" href="Link">Lab 08</a>
 </td></tr>
 
 
@@ -192,7 +192,7 @@
 <td> 04/04/18  </td>
 <td> Building a between-subjects statistical model <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
-<td> Building a between-subjects statistical model <br /> <a rel="nofollow" class="external text" href="Link">Lab 09</a>
+<td>  <a rel="nofollow" class="external text" href="Link">Lab 09</a>
 </td></tr>
 
 
@@ -207,7 +207,7 @@
 <td> 04/11/18  </td>
 <td> Task analysis: putting it all together  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
-<td> Task analysis: putting it all together  <br /> <a rel="nofollow" class="external text" href="Link">Lab 10</a>
+<td> <a rel="nofollow" class="external text" href="Link">Lab 10</a>
 </td></tr>
 
 
@@ -223,7 +223,7 @@
 <td> 04/18/18  </td>
 <td> Building a simple workflow in nipype <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
-<td> Building a simple workflow in nipype  <br /> <a rel="nofollow" class="external text" href="Link">Lab 11</a>
+<td> <a rel="nofollow" class="external text" href="Link">Lab 11</a>
 </td></tr>
 
 
@@ -240,7 +240,7 @@
 <td> 04/25/18  </td>
 <td> Resting state functional connectivity  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
-<td> Resting state functional connectivity   <br /> <a rel="nofollow" class="external text" href="Link">Lab 12</a>
+<td>  <a rel="nofollow" class="external text" href="Link">Lab 12</a>
 </td></tr>
 
 <tr>
