@@ -82,15 +82,14 @@
 <td> 5  </td>
 <td> 02/12/18  </td>
 <td> Structural image quality <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 4</a> <br /> </td>
-<td>  <br />
+<td> <a rel="nofollow" class="external text" href="http://mriqc.readthedocs.io/en/latest/iqms/t1w.html">mriqc</a> <br /> </td>
+<td> <a rel="nofollow" class="external text" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184661"> Esteban et al. 2017 </a>  <br />
 </td></tr>
 
 <td>  </td>
 <td> 02/14/18  </td>
-<td> Computing and summarizing structural image quality <br />  </td>
-<td> <a rel="nofollow" class="external text" href="http://mriqc.readthedocs.io/en/latest/iqms/t1w.html"> mriqc </a> <br /> <a rel="nofollow" class="external text" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184661">Esteban et al., 2017 </a> </td>
-<td> Quality control for structural images <br /> <a rel="nofollow" class="external text" href="Link">Lab 03</a>
+<td> Practice with spatial registraiton <br />  </td>
+<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957"> Handbook Ch 4 </a> <br />  <a rel="nofollow" class="external text" href="Link">Lab 03</a>
 </td></tr>
 
 
@@ -120,7 +119,7 @@
 
 <td>  </td>
 <td> 02/28/18  </td>
-<td> fMRI preprocessing: smoothing, ICA-denoising, temporal filtering <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> fMRI preprocessing: ICA-denoising & temporal filtering <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="https://github.com/maartenmennes/ICA-AROMA/blob/master/Manual.pdf">ICA-AROMA manual</a> <br /> </td>
 <td> Preprocessing for functional images <br /> <a rel="nofollow" class="external text" href="Link">Lab 05</a>
 </td></tr>
