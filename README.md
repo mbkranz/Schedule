@@ -87,7 +87,7 @@
 
 <td>  </td>
 <td> 02/14/18  </td>
-<td> Practice with spatial registraiton <br />  </td>
+<td> Practice with spatial registration <br />  </td>
 <td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957"> Handbook Ch 4 </a> <br /></td> <td> <a rel="nofollow" class="external text" href="Link">Lab 03</a>
 </td></tr>
 
