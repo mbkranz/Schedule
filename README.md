@@ -104,7 +104,7 @@
 <td> 02/21/18  </td>
 <td> fMRI preprocessing: quality metrics, motion correction, slice timing <br />  </td>
 <td> <a rel="nofollow" class="external text" href="http://mriqc.readthedocs.io/en/latest/iqms/bold.html">mriqc</a> <br /> </td>
-<td> Quality control for functional images <br /> <a rel="nofollow" class="external text" href="Link">Lab 04</a>
+<td>   <a rel="nofollow" class="external text" href="Link">Lab 04</a>
 </td></tr>
 
 
@@ -120,7 +120,7 @@
 <td> 02/28/18  </td>
 <td> fMRI preprocessing: ICA-denoising & temporal filtering <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="https://github.com/maartenmennes/ICA-AROMA/blob/master/Manual.pdf">ICA-AROMA manual</a> <br /> </td>
-<td> Preprocessing for functional images <br /> <a rel="nofollow" class="external text" href="Link">Lab 05</a>
+<td> <a rel="nofollow" class="external text" href="Link">Lab 05</a>
 </td></tr>
 
 
