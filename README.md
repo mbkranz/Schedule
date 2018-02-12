@@ -81,7 +81,7 @@
 
 <td> 5  </td>
 <td> 02/12/18  </td>
-<td> Structural image quality <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> Structural image quality <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Resources/blob/master/021218_StructuralQC_and_Normalization.pdf">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="http://mriqc.readthedocs.io/en/latest/iqms/t1w.html">mriqc</a> <br /> <a rel="nofollow" class="external text" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184661"> Esteban et al. 2017 </a>  <br />
 <td> </td></tr>
 
