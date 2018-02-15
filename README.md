@@ -88,21 +88,21 @@
 <td>  </td>
 <td> 02/14/18  </td>
 <td> Practice with spatial registration <br />  </td>
-<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957"> Handbook Ch 4 </a> <br /></td> <td> <a rel="nofollow" class="external text" href="Link">Lab 03</a>
+<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957"> Handbook Ch 4 </a> <br /></td> <td> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/03-Lab/SpatialImageProcessing.ipynb">Lab 03</a>
 </td></tr>
 
 
 
 <td> 6  </td>
 <td> 02/19/18  </td>
-<td> fMRI images: motion correction & slice timing <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> fMRI images: motion, motion correction, slice timing <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook, p41-49</a> <br /></td>
 <td>  <br />
 </td></tr>
 
 <td>  </td>
 <td> 02/21/18  </td>
-<td> fMRI preprocessing: quality metrics, motion correction, slice timing <br />  </td>
+<td> fMRI preprocessing: motion correction, slice timing, and registration of functional image <br />  </td>
 <td> <a rel="nofollow" class="external text" href="http://mriqc.readthedocs.io/en/latest/iqms/bold.html">mriqc</a> <br /> </td>
 <td>   <a rel="nofollow" class="external text" href="Link">Lab 04</a>
 </td></tr>
