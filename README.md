@@ -96,8 +96,7 @@
 <td> 6  </td>
 <td> 02/19/18  </td>
 <td> Registration wrap-up <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="http://www.fmrib.ox.ac.uk/primers/intro_primer/ExBox16/IntroBox16.html">Spatial Transforms primer </a> <br /></td><td> <a rel="nofollow" class="external text" href="http://www.fmrib.ox.ac.uk/primers/intro_primer/ExBox17/IntroBox17.html">Registration primer </a> <br /></td>
-<td> <a rel="nofollow" class="external text" href="http://www.fmrib.ox.ac.uk/primers/intro_primer/ExBox18/IntroBox18.html">Registration case studies primer </a> <br /></td><td>  <br />
+<td> <a rel="nofollow" class="external text" href="http://www.fmrib.ox.ac.uk/primers/intro_primer/ExBox16/IntroBox16.html">Spatial Transforms primer </a> <br /> <a rel="nofollow" class="external text" href="http://www.fmrib.ox.ac.uk/primers/intro_primer/ExBox17/IntroBox17.html">Registration primer </a> <br /> <a rel="nofollow" class="external text" href="http://www.fmrib.ox.ac.uk/primers/intro_primer/ExBox18/IntroBox18.html">Registration case studies primer </a> <br /></td><td>  <br />
 </td></tr>
 
 <td>  </td>
