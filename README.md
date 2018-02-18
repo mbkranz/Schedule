@@ -101,9 +101,11 @@
 
 <td>  </td>
 <td> 02/21/18  </td>
-<td> Registration of functional image and mapping masks between image spaces <br />  </td>
-   <a rel="nofollow" class="external text" href="Link">Lab 04</a>
+<td> Registration of functional image and mapping masks between image spaces <br /> < </td>
+<td>  <br /> </td>
+<td> <a rel="nofollow" class="external text" href="Link">Lab 04</a>
 </td></tr>
+
 
 
 
