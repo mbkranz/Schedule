@@ -95,31 +95,30 @@
 
 <td> 6  </td>
 <td> 02/19/18  </td>
-<td> fMRI images: motion, motion correction, slice timing <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook, p41-49</a> <br /></td>
-<td>  <br />
+<td> Registration wrap-up <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="http://www.fmrib.ox.ac.uk/primers/intro_primer/ExBox16/IntroBox16.html">Spatial Transforms primer </a> <br /></td><td> <a rel="nofollow" class="external text" href="http://www.fmrib.ox.ac.uk/primers/intro_primer/ExBox17/IntroBox17.html">Registration primer </a> <br /></td>
+<td> <a rel="nofollow" class="external text" href="http://www.fmrib.ox.ac.uk/primers/intro_primer/ExBox18/IntroBox18.html">Registration case studies primer </a> <br /></td><td>  <br />
 </td></tr>
 
 <td>  </td>
 <td> 02/21/18  </td>
-<td> fMRI preprocessing: motion correction, slice timing, and registration of functional image <br />  </td>
-<td> <a rel="nofollow" class="external text" href="http://mriqc.readthedocs.io/en/latest/iqms/bold.html">mriqc</a> <br /> </td>
-<td>   <a rel="nofollow" class="external text" href="Link">Lab 04</a>
+<td> Registration of functional image and mapping masks between image spaces <br />  </td>
+   <a rel="nofollow" class="external text" href="Link">Lab 04</a>
 </td></tr>
 
 
 
 <td> 7  </td>
 <td> 02/26/18  </td>
-<td> fMRI preprocessing: ICA-denoising & temporal filtering <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="https://www-ncbi-nlm-nih-gov.proxy.lib.uiowa.edu/pubmed/25770991">Pruim et al, 2015</a> <br /> </td>
+<td> fMRI preprocessing: Motion correction and slice-timing <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook, p41-49</a> <br /> </td>
 <td>  <br />
 </td></tr>
 
 <td>  </td>
 <td> 02/28/18  </td>
-<td> fMRI preprocessing: ICA-denoising & temporal filtering <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="https://github.com/maartenmennes/ICA-AROMA/blob/master/Manual.pdf">ICA-AROMA manual</a> <br /> </td>
+<td> fMRI preprocessing: Detecting motion, motion correction, and slice-timing <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="http://mriqc.readthedocs.io/en/latest/iqms/bold.html">mriqc</a> <br /> </td>
 <td> <a rel="nofollow" class="external text" href="Link">Lab 05</a>
 </td></tr>
 
@@ -127,16 +126,16 @@
 
 <td> 8  </td>
 <td> 03/05/18  </td>
-<td> Putting it all together for different designs <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> fMRI preprocessing: ICA-denoising & temporal filtering <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://www-ncbi-nlm-nih-gov.proxy.lib.uiowa.edu/pubmed/25770991">Pruim et al, 2015</a> <br /> </td>
 <td>  <br />
 </td></tr>
 
 <td>  </td>
 <td> 03/07/18  </td>
-<td> Putting it all together with batch scripting and documenting your steps <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
-<td> Batch processing and workflow tips <br /> <a rel="nofollow" class="external text" href="Link">Lab 06</a>
+<td> ICA-denoising & temporal filtering  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://github.com/maartenmennes/ICA-AROMA/blob/master/Manual.pdf">ICA-AROMA manual</a> <br /> </td>
+<td>   <br /> <a rel="nofollow" class="external text" href="Link">Lab 06</a>
 </td></tr>
 
 
@@ -166,7 +165,7 @@
 
 <td> 10  </td>
 <td> 03/26/18  </td>
-<td> Experimental design considerations for fMRI & project ideas discussion <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> Putting it all together with batch scripting and documenting your steps  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
 <td>  <br />
 </td></tr>
@@ -194,6 +193,7 @@
 <td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
 <td>  <a rel="nofollow" class="external text" href="Link">Lab 09</a>
 </td></tr>
+
 
 
 <td> 12  </td>
