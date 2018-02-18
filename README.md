@@ -214,14 +214,14 @@
 
 <td> 13  </td>
 <td> 04/16/18  </td>
-<td> Introduction to Nipype and workflows, by James Kent  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> Introduction to diffusion imaging  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
 <td>  <br />
 </td></tr>
 
 <td>  </td>
 <td> 04/18/18  </td>
-<td> Building a simple workflow in nipype <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> Introduction to diffusion data <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
 <td> <a rel="nofollow" class="external text" href="Link">Lab 11</a>
 </td></tr>
