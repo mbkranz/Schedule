@@ -111,7 +111,7 @@
 
 <td> 7  </td>
 <td> 02/26/18  </td>
-<td> fMRI preprocessing: Motion correction and slice-timing <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> fMRI preprocessing: Motion correction and slice-timing <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Resources/blob/master/022618_Preprocessing_SliceTiming%2BMotion.pdf">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook, p41-49</a> <br /> </td>
 <td>  <br />
 </td></tr>
