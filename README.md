@@ -119,8 +119,8 @@
 <td>  </td>
 <td> 02/28/18  </td>
 <td> fMRI preprocessing: Detecting motion, motion correction, and slice-timing <br /> </td>
-<td> <a rel="nofollow" class="external text" href="http://mriqc.readthedocs.io/en/latest/iqms/bold.html">mriqc</a> <br /> </td>
-<td> <a rel="nofollow" class="external text" href="Link">Lab 05</a>
+<td> <a rel="nofollow" class="external text" href="http://mriqc.readthedocs.io/en/latest/iqms/bold.html">mriqc</a> <br /> </br> <a rel="nofollow" class="external text" href="https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSLMotionOutliers">fsl motion outliers</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/05-Lab/motion_correction_and_slice_timing.ipynb">Lab 05</a>
 </td></tr>
 
 
