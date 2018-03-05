@@ -118,7 +118,7 @@
 
 <td>  </td>
 <td> 02/28/18  </td>
-<td> fMRI preprocessing: Detecting motion, motion correction, and slice-timing <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> fMRI preprocessing: Detecting motion, motion correction, and slice-timing <br /> </td>
 <td> <a rel="nofollow" class="external text" href="http://mriqc.readthedocs.io/en/latest/iqms/bold.html">mriqc</a> <br /> </td>
 <td> <a rel="nofollow" class="external text" href="Link">Lab 05</a>
 </td></tr>
@@ -127,7 +127,7 @@
 
 <td> 8  </td>
 <td> 03/05/18  </td>
-<td> fMRI preprocessing: ICA-denoising & temporal filtering <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> fMRI preprocessing: ICA-denoising & temporal filtering <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Resources/blob/master/030518_filtering_and_ICA_denoising.pdf">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="https://www-ncbi-nlm-nih-gov.proxy.lib.uiowa.edu/pubmed/25770991">Pruim et al, 2015</a> <br /> </td>
 <td>  <br />
 </td></tr>
@@ -151,7 +151,7 @@
 <td> 9  </td>
 <td> 03/19/18  </td>
 <td> Statistical analysis: single subject task analysis <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 5</a> <br />  </td>
 <td>  <br />
 </td></tr>
 
@@ -184,7 +184,7 @@
 <td> 11  </td>
 <td> 04/02/18  </td>
 <td> Group analyses  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 6</a> </td>
 <td>  <br />
 </td></tr>
 
