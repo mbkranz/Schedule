@@ -151,14 +151,14 @@
 <td> 9  </td>
 <td> 03/19/18  </td>
 <td> Statistical analysis: single subject task analysis <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 5</a> <br />  </td>
+<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 5</a> <br /> <a rel="nofollow" class="external text" href="https://youtu.be/fkZj8QoYjq8">Video: matrix algebra primer</a> <br /> <a rel="nofollow" class="external text" href="https://youtu.be/qdOG7YMolmA">Video: multiple regression with matrices</a> <br />  </td>
 <td>  <br />
 </td></tr>
 
 <td>  </td>
 <td> 03/21/18  </td>
-<td> Building a single subject task model  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Video</a> <br /> <a rel="nofollow" class="external text" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0126255">Mumford et al., 2015</a> </td>
+<td> Building a single subject task model  <br /> </td>
+<td> <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=5JNX34gYG7Q&list=PLB2iAtgpI4YFA39EWrvo44rPABcAm7VpY">Videos: first level models review</a> <br /> <a rel="nofollow" class="external text" href="https://youtu.be/yLgPpmXVVbs">Video: contrasts in linear models</a> <br /> <a rel="nofollow" class="external text" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0126255">Mumford et al., 2015</a> </td>
 <td>  <a rel="nofollow" class="external text" href="Link">Lab 07</a>
 </td></tr>
 
@@ -174,7 +174,7 @@
 <td>  </td>
 <td> 03/28/18  </td>
 <td> Building a task to run in the scanner  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="http://surfer.nmr.mgh.harvard.edu/optseq/">optseq</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=FD4ztsoYvSY&list=PLB2iAtgpI4YEnBdb_jDGmMcdGoIBwhCCY">Videos on estimating efficient designs</a></br><a rel="nofollow" class="external text" href="http://surfer.nmr.mgh.harvard.edu/optseq/">optseq</a> </td>
 <td> <a rel="nofollow" class="external text" href="Link">Lab 08</a>
 </td></tr>
 
@@ -191,7 +191,7 @@
 <td>  </td>
 <td> 04/04/18  </td>
 <td> Building a between-subjects statistical model <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/GLM">Example GLM designs</a> <br /> <a rel="nofollow" class="external text" href="https://youtu.be/K4S576j90N8">Video: mean centering regressors</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
 <td>  <a rel="nofollow" class="external text" href="Link">Lab 09</a>
 </td></tr>
 
