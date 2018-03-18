@@ -191,7 +191,7 @@
 <td>  </td>
 <td> 04/04/18  </td>
 <td> Building a between-subjects statistical model <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/GLM">Example GLM designs</a> <br /> <a rel="nofollow" class="external text" href="https://youtu.be/K4S576j90N8">Video: mean centering regressors</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/GLM">Example GLM designs</a> <br /> <a rel="nofollow" class="external text" href="https://youtu.be/K4S576j90N8">Video: mean centering regressors</a>  </td>
 <td>  <a rel="nofollow" class="external text" href="Link">Lab 09</a>
 </td></tr>
 
