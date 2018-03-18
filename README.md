@@ -158,7 +158,7 @@
 <td>  </td>
 <td> 03/21/18  </td>
 <td> Building a single subject task model  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> <a rel="nofollow" class="external text" href="link">Video</a> <br /> <a rel="nofollow" class="external text" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0126255">Mumford et al., 2015</a> </td>
 <td>  <a rel="nofollow" class="external text" href="Link">Lab 07</a>
 </td></tr>
 
@@ -166,15 +166,15 @@
 
 <td> 10  </td>
 <td> 03/26/18  </td>
-<td> Putting it all together with batch scripting and documenting your steps  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> Task design considerations  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C16&q=Study+design+in+fMRI%3A+basic+principles&btnG=">Amara & Barker 2006</a> <br /> </td>
 <td>  <br />
 </td></tr>
 
 <td>  </td>
 <td> 03/28/18  </td>
 <td> Building a task to run in the scanner  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> <a rel="nofollow" class="external text" href="http://surfer.nmr.mgh.harvard.edu/optseq/">optseq</a> </td>
 <td> <a rel="nofollow" class="external text" href="Link">Lab 08</a>
 </td></tr>
 
@@ -184,7 +184,7 @@
 <td> 11  </td>
 <td> 04/02/18  </td>
 <td> Group analyses  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 6</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 6</a> <br /> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Appendix A GLM review</a> </td>
 <td>  <br />
 </td></tr>
 
@@ -200,14 +200,14 @@
 <td> 12  </td>
 <td> 04/09/18  </td>
 <td> Statistical inference on images  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 7</a> <br /> <a rel="nofollow" class="external text" href="http://www.pnas.org/content/113/28/7900.short">Eklund et al., 2016</a> </td>
 <td>  <br />
 </td></tr>
 
 <td>  </td>
 <td> 04/11/18  </td>
 <td> Task analysis: putting it all together  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Brain+Imaging+and+Cognitive+Neuroscience+toward+strong+inference">Sarter, Bernston, Cacioppo, 1996</a> <br /> <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pubmed/?term=double-dipping+fMRI">Kriegeskorte et al., 2009</a> </td>
 <td> <a rel="nofollow" class="external text" href="Link">Lab 10</a>
 </td></tr>
 
