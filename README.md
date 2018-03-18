@@ -257,7 +257,7 @@
 
 <td>  </td>
 <td> 05/02/18  </td>
-<td> Final project presentations  <br /> </td>
+<td> Final project work day  <br /> </td>
 <td>  </td>
 <td>    <br />
 </td></tr>
@@ -267,7 +267,7 @@
 
 <td> 16  </td>
 <td> 05/07/18  </td>
-<td> Final project presentations  <br /> </td>
+<td> Final project notebooks due   <br /> </td>
 <td> </td>
 <td>  <br />
 </td></tr>
