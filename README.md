@@ -136,7 +136,7 @@
 <td> 03/07/18  </td>
 <td> ICA-denoising & temporal filtering  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="https://github.com/maartenmennes/ICA-AROMA/blob/master/Manual.pdf">ICA-AROMA manual</a> <br /> </td>
-<td>   <br /> <a rel="nofollow" class="external text" href="Link">Lab 06</a>
+<td>   <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/06-Lab/filtering_and_denoising.ipynb">Lab 06</a>
 </td></tr>
 
 
