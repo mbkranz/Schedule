@@ -167,7 +167,7 @@
 <td> 10  </td>
 <td> 03/26/18  </td>
 <td> Task design considerations  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C16&q=Study+design+in+fMRI%3A+basic+principles&btnG=">Amara & Barker 2006</a> <br /> </td>
+<td> <a rel="nofollow" class="external text" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C16&q=Study+design+in+fMRI%3A+basic+principles&btnG=">Amaro & Barker 2006</a> <br /> </td>
 <td>  <br />
 </td></tr>
 
