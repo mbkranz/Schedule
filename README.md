@@ -184,7 +184,7 @@
 <td> 11  </td>
 <td> 04/02/18  </td>
 <td> Group analyses  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 6</a> <br /> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Appendix A GLM review</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 6</a> <br /> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Appendix A GLM review</a> <br /> <a rel="nofollow" class="external text" href="https://www.youtube.com/playlist?list=PLB2iAtgpI4YFbAR9D4ZmWohRFXB3w5DWK">Videos: Mixed models for imaging</a></td>
 <td>  <br />
 </td></tr>
 
@@ -200,7 +200,7 @@
 <td> 12  </td>
 <td> 04/09/18  </td>
 <td> Statistical inference on images  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 7</a> <br /> <a rel="nofollow" class="external text" href="http://www.pnas.org/content/113/28/7900.short">Eklund et al., 2016</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 7</a> <br /> <a rel="nofollow" class="external text" href="http://www.pnas.org/content/113/28/7900.short">Eklund et al., 2016</a> <br /> <a rel="nofollow" class="external text" href="https://www.youtube.com/playlist?list=PLB2iAtgpI4YGqeN4wJpwuo8yIWMfKaBD2">Videos on thresholding methods</a> </td>
 <td>  <br />
 </td></tr>
 
