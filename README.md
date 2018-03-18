@@ -251,13 +251,13 @@
 <td> 15  </td>
 <td> 04/30/18  </td>
 <td> Reporting your methods and results & final project working session  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 10</a> <br /> <a rel="nofollow" class="external text" href="http://www.humanbrainmapping.org/files/2016/COBIDASreport.pdf">COBIDAS report</a> </td>
 <td>  <br />
 </td></tr>
 
 <td>  </td>
 <td> 05/02/18  </td>
-<td> Final project work day  <br /> </td>
+<td> Final project working session  <br /> </td>
 <td>  </td>
 <td>    <br />
 </td></tr>
