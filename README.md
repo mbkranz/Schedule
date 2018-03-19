@@ -150,7 +150,7 @@
 
 <td> 9  </td>
 <td> 03/19/18  </td>
-<td> Statistical analysis: single subject task analysis <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> Statistical analysis: single subject task analysis <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Resources/blob/master/031918_Single_subject_analysis.pdf">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 5</a> <br /> <a rel="nofollow" class="external text" href="https://youtu.be/fkZj8QoYjq8">Video: matrix algebra primer</a> <br /> <a rel="nofollow" class="external text" href="https://youtu.be/qdOG7YMolmA">Video: multiple regression with matrices</a> <br />  </td>
 <td>  <br />
 </td></tr>
