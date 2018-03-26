@@ -159,14 +159,14 @@
 <td> 03/21/18  </td>
 <td> Building a single subject task model  <br /> </td>
 <td> <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=5JNX34gYG7Q&list=PLB2iAtgpI4YFA39EWrvo44rPABcAm7VpY">Videos: first level models review</a> <br /> <a rel="nofollow" class="external text" href="https://youtu.be/yLgPpmXVVbs">Video: contrasts in linear models</a> <br /> <a rel="nofollow" class="external text" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0126255">Mumford et al., 2015</a> </td>
-<td>  <a rel="nofollow" class="external text" href="Link">Lab 07</a>
+<td>  <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/07-Lab/BuildingFirstLevelTaskModels.ipynb">Lab 07</a>
 </td></tr>
 
 
 
 <td> 10  </td>
 <td> 03/26/18  </td>
-<td> Task design considerations  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> Task design considerations  <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Resources/blob/master/032618_TaskDesignConsiderations.pdf">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="https://scholar.google.com/scholar?hl=en&as_sdt=0%2C16&q=Study+design+in+fMRI%3A+basic+principles&btnG=">Amaro & Barker 2006</a> <br /> </td>
 <td>  <br />
 </td></tr>
