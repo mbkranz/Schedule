@@ -173,7 +173,7 @@
 
 <td>  </td>
 <td> 03/28/18  </td>
-<td> Building a task to run in the scanner  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> Building a task to run in the scanner  <br />  </td>
 <td> <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=FD4ztsoYvSY&list=PLB2iAtgpI4YEnBdb_jDGmMcdGoIBwhCCY">Videos on estimating efficient designs</a></br><a rel="nofollow" class="external text" href="http://surfer.nmr.mgh.harvard.edu/optseq/">optseq</a> </td>
 <td> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/08-Lab/ExperimentalDesign.ipynb">Lab 08</a>
 </td></tr>
