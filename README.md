@@ -175,7 +175,7 @@
 <td> 03/28/18  </td>
 <td> Building a task to run in the scanner  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=FD4ztsoYvSY&list=PLB2iAtgpI4YEnBdb_jDGmMcdGoIBwhCCY">Videos on estimating efficient designs</a></br><a rel="nofollow" class="external text" href="http://surfer.nmr.mgh.harvard.edu/optseq/">optseq</a> </td>
-<td> <a rel="nofollow" class="external text" href="Link">Lab 08</a>
+<td> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/08-Lab/ExperimentalDesign.ipynb">Lab 08</a>
 </td></tr>
 
 
@@ -183,7 +183,7 @@
 
 <td> 11  </td>
 <td> 04/02/18  </td>
-<td> Group analyses  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> Group analyses  <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Resources/blob/master/040218_GroupAnalysis.pdf">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 6</a> <br /> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Appendix A GLM review</a> <br /> <a rel="nofollow" class="external text" href="https://www.youtube.com/playlist?list=PLB2iAtgpI4YFbAR9D4ZmWohRFXB3w5DWK">Videos: Mixed models for imaging</a></td>
 <td>  <br />
 </td></tr>
