@@ -192,21 +192,21 @@
 <td> 04/04/18  </td>
 <td> Building a between-subjects statistical model <br /> </td>
 <td> <a rel="nofollow" class="external text" href="https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/GLM">Example GLM designs</a> <br /> <a rel="nofollow" class="external text" href="https://youtu.be/K4S576j90N8">Video: mean centering regressors</a>  </td>
-<td>  <a rel="nofollow" class="external text" href="Link">Lab 09</a>
+<td>  <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/09-Lab/GroupAnalyses.ipynb">Lab 09</a>
 </td></tr>
 
 
 
 <td> 12  </td>
 <td> 04/09/18  </td>
-<td> Statistical inference on images  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> Statistical inference on images  <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Resources/blob/master/040918_StatisticalInference.pdf">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 7</a> <br /> <a rel="nofollow" class="external text" href="http://www.pnas.org/content/113/28/7900.short">Eklund et al., 2016</a> <br /> <a rel="nofollow" class="external text" href="https://www.youtube.com/playlist?list=PLB2iAtgpI4YGqeN4wJpwuo8yIWMfKaBD2">Videos on thresholding methods</a> </td>
 <td>  <br />
 </td></tr>
 
 <td>  </td>
 <td> 04/11/18  </td>
-<td> Task analysis: putting it all together  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> Task analysis: putting it all together  <br />  </td>
 <td> <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Brain+Imaging+and+Cognitive+Neuroscience+toward+strong+inference">Sarter, Bernston, Cacioppo, 1996</a> <br /> <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pubmed/?term=double-dipping+fMRI">Kriegeskorte et al., 2009</a> </td>
 <td> <a rel="nofollow" class="external text" href="Link">Lab 10</a>
 </td></tr>
