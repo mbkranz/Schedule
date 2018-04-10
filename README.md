@@ -206,7 +206,7 @@
 
 <td>  </td>
 <td> 04/11/18  </td>
-<td> Task analysis: putting it all together  <br />  </td>
+<td> Task analysis: putting it all together </td>
 <td> <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Brain+Imaging+and+Cognitive+Neuroscience+toward+strong+inference">Sarter, Bernston, Cacioppo, 1996</a> <br /> <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pubmed/?term=double-dipping+fMRI">Kriegeskorte et al., 2009</a> </td>
 <td> <a rel="nofollow" class="external text" href="Link">Lab 10</a>
 </td></tr>
