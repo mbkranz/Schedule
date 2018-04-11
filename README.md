@@ -216,7 +216,7 @@
 <td> 13  </td>
 <td> 04/16/18  </td>
 <td> Introduction to diffusion imaging  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="https://www-ncbi-nlm-nih-gov.proxy.lib.uiowa.edu/pubmed/18635164">Jones 2008</a> <br /> <a rel="nofollow" class="external text" href="https://www-ncbi-nlm-nih-gov.proxy.lib.uiowa.edu/pubmed/?term=White+matter+integrity%2C+fiber+count%2C+and+other+fallacies%3A+The+do%27s+and+don%27ts+of+diffusion+MRI">Jones et al., 2013</a> <a rel="nofollow" class="external text" href="https://www-ncbi-nlm-nih-gov.proxy.lib.uiowa.edu/pubmed/?term=Acquisition+and+voxelwise+analysis+of+multi-subject+diffusion+data+with+Tract-Based+Spatial+Statistics">TBSS primer</a></td>
+<td> <a rel="nofollow" class="external text" href="https://www-ncbi-nlm-nih-gov.proxy.lib.uiowa.edu/pubmed/18635164">Jones 2008</a> <br /> <a rel="nofollow" class="external text" href="https://www-ncbi-nlm-nih-gov.proxy.lib.uiowa.edu/pubmed/?term=White+matter+integrity%2C+fiber+count%2C+and+other+fallacies%3A+The+do%27s+and+don%27ts+of+diffusion+MRI">Jones et al., 2013</a><br />  <a rel="nofollow" class="external text" href="https://www-ncbi-nlm-nih-gov.proxy.lib.uiowa.edu/pubmed/?term=Acquisition+and+voxelwise+analysis+of+multi-subject+diffusion+data+with+Tract-Based+Spatial+Statistics">TBSS primer</a></td>
 <td>  <br />
 </td></tr>
 
