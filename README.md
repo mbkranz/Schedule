@@ -216,14 +216,14 @@
 <td> 13  </td>
 <td> 04/16/18  </td>
 <td> Introduction to diffusion imaging  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://www-ncbi-nlm-nih-gov.proxy.lib.uiowa.edu/pubmed/18635164">Jones 2008</a> <br /> <a rel="nofollow" class="external text" href="https://www-ncbi-nlm-nih-gov.proxy.lib.uiowa.edu/pubmed/?term=White+matter+integrity%2C+fiber+count%2C+and+other+fallacies%3A+The+do%27s+and+don%27ts+of+diffusion+MRI">Jones et al., 2013</a> <a rel="nofollow" class="external text" href="https://www-ncbi-nlm-nih-gov.proxy.lib.uiowa.edu/pubmed/?term=Acquisition+and+voxelwise+analysis+of+multi-subject+diffusion+data+with+Tract-Based+Spatial+Statistics">TBSS primer</a></td>
 <td>  <br />
 </td></tr>
 
 <td>  </td>
 <td> 04/18/18  </td>
-<td> Introduction to diffusion data <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> Introduction to diffusion data <br /> </td>
+<td> <a rel="nofollow" class="external text" href="http://blog.ismrm.org/2018/04/03/interactive-diffusion-course/">Blog and supplementary video</a> <br />  </td>
 <td> <a rel="nofollow" class="external text" href="Link">Lab 11</a>
 </td></tr>
 
@@ -233,14 +233,14 @@
 <td> 14  </td>
 <td> 04/23/18  </td>
 <td> Resting state functional connectivity  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> <a rel="nofollow" class="external text" href="https://www.physiology.org/doi/pdf/10.1152/jn.00783.2009">Van Dijk et al., 2010</a> <br /> <a rel="nofollow" class="external text" href="https://ac-els-cdn-com.proxy.lib.uiowa.edu/S1053811916306711/1-s2.0-S1053811916306711-main.pdf?_tid=b0b2ea52-1901-4abb-99a4-0fa5f9d0af91&acdnat=1523414381_71a63848c390209b0aafb9397e1a2278">Murphy & Fox, 2017</a> </td>
 <td>  <br />
 </td></tr>
 
 <td>  </td>
 <td> 04/25/18  </td>
-<td> Resting state functional connectivity  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
-<td> <a rel="nofollow" class="external text" href="link">Reading 1</a> <br /> <a rel="nofollow" class="external text" href="link">Reading 2</a> </td>
+<td> Resting state functional connectivity  <br />  </td>
+<td>  <br /> </td>
 <td>  <a rel="nofollow" class="external text" href="Link">Lab 12</a>
 </td></tr>
 
