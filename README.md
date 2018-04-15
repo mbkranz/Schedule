@@ -208,14 +208,14 @@
 <td> 04/11/18  </td>
 <td> Task analysis: putting it all together </td>
 <td> <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pubmed/?term=Brain+Imaging+and+Cognitive+Neuroscience+toward+strong+inference">Sarter, Bernston, Cacioppo, 1996</a> <br /> <a rel="nofollow" class="external text" href="https://www.ncbi.nlm.nih.gov/pubmed/?term=double-dipping+fMRI">Kriegeskorte et al., 2009</a> </td>
-<td> <a rel="nofollow" class="external text" href="Link">Lab 10</a>
+<td> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/10-Lab/TaskRationaleAndAnalysisConcepts.ipynb">Lab 10</a>
 </td></tr>
 
 
 
 <td> 13  </td>
 <td> 04/16/18  </td>
-<td> Introduction to diffusion imaging  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> Introduction to diffusion imaging  <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Resources/blob/master/041618_DiffusionImaging.pdf">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="https://www-ncbi-nlm-nih-gov.proxy.lib.uiowa.edu/pubmed/18635164">Jones 2008</a> <br /> <a rel="nofollow" class="external text" href="https://www-ncbi-nlm-nih-gov.proxy.lib.uiowa.edu/pubmed/?term=White+matter+integrity%2C+fiber+count%2C+and+other+fallacies%3A+The+do%27s+and+don%27ts+of+diffusion+MRI">Jones et al., 2013</a><br />  <a rel="nofollow" class="external text" href="https://www-ncbi-nlm-nih-gov.proxy.lib.uiowa.edu/pubmed/?term=Acquisition+and+voxelwise+analysis+of+multi-subject+diffusion+data+with+Tract-Based+Spatial+Statistics">TBSS primer</a></td>
 <td>  <br />
 </td></tr>
