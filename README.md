@@ -224,7 +224,7 @@
 <td> 04/18/18  </td>
 <td> Introduction to diffusion data <br /> </td>
 <td> <a rel="nofollow" class="external text" href="http://blog.ismrm.org/2018/04/03/interactive-diffusion-course/">Blog and supplementary video</a> <br />  </td>
-<td> <a rel="nofollow" class="external text" href="Link">Lab 11</a>
+<td> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Labs/blob/master/11-Lab/DWI.ipynb">Lab 11</a>
 </td></tr>
 
 
@@ -232,7 +232,7 @@
 
 <td> 14  </td>
 <td> 04/23/18  </td>
-<td> Resting state functional connectivity  <br /> <a rel="nofollow" class="external text" href="link">Lecture slides</a> </td>
+<td> Resting state functional connectivity  <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Resources/blob/master/042318_RestingStateFunctionalConnectivty.pdf">Lecture slides</a> </td>
 <td> <a rel="nofollow" class="external text" href="https://www.physiology.org/doi/pdf/10.1152/jn.00783.2009">Van Dijk et al., 2010</a> <br /> <a rel="nofollow" class="external text" href="https://ac-els-cdn-com.proxy.lib.uiowa.edu/S1053811916306711/1-s2.0-S1053811916306711-main.pdf?_tid=b0b2ea52-1901-4abb-99a4-0fa5f9d0af91&acdnat=1523414381_71a63848c390209b0aafb9397e1a2278">Murphy & Fox, 2017</a> </td>
 <td>  <br />
 </td></tr>
