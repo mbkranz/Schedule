@@ -250,7 +250,7 @@
 
 <td> 15  </td>
 <td> 04/30/18  </td>
-<td> Reporting your methods and results & final project working session  <br /> <a rel="nofollow" class="external text" href="https://github.com/uiowa-mri-course-2018/Resources/blob/master/040918_StatisticalInference.pdf">Lecture slides (continue ROI analyses and circularity)</a> </td>
+<td> Final project working session  <br /> </td>
 <td> <a rel="nofollow" class="external text" href="https://ebookcentral-proquest-com.proxy.lib.uiowa.edu/lib/uiowa/detail.action?docID=774957">Handbook Ch 10</a> <br /> <a rel="nofollow" class="external text" href="http://www.humanbrainmapping.org/files/2016/COBIDASreport.pdf">COBIDAS report</a> </td>
 <td>  <br />
 </td></tr>
